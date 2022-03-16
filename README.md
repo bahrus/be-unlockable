@@ -31,3 +31,22 @@ However, this instantiation by default rule can be disabled:
 </template>
 ```
 
+The template can be instanted inside the element(s) that match the css query:
+
+```html
+<template be-unlockable='{
+    "instantiateInMatches": true,
+    "query": "myCssQuery",
+    "bees":{
+        "beActive": true,
+        "beSwitched": {
+            "if": "someCondition",
+        }
+    }
+}'>
+    <div>
+        <h1>Hello World</h1>
+    </div>
+</template>
+```
+

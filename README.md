@@ -31,7 +31,7 @@ However, this instantiation by default rule can be disabled:
 </template>
 ```
 
-The template can be instanted inside the element(s) that match the css query:
+The template can be instantiated inside the element(s) that match the css query:
 
 ```html
 <template be-unlockable='{

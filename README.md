@@ -50,3 +50,5 @@ The template can be instantiated inside the element(s) that match the css query:
 </template>
 ```
 
+Functionality by no means limited to templates though.  If applied to a regular element, the "bees" becomes the focal point.
+

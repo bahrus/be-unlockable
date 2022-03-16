@@ -1,0 +1,19 @@
+{
+  "name": "be-unlockable",
+  "version": "0.0.0",
+  "description": "be-unlockable is a \"conditional\" behavior.  It unlocks other behaviors, allowing them to be applied to the adorned element only when a css query is fulfilled within the ShadowDOM realm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/be-unlockable.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/be-unlockable/issues"
+  },
+  "homepage": "https://github.com/bahrus/be-unlockable#readme"
+}

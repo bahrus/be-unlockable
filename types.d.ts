@@ -1,6 +1,6 @@
 
 export interface BeUnlockableVirtualProps {
-
+    query: string;
 }
 
 export interface BeUnlockableProps{
@@ -8,5 +8,5 @@ export interface BeUnlockableProps{
 }
 
 export interface BeUnlockableActions{
-    
+
 }
